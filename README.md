@@ -1,6 +1,7 @@
 <h1>Fit an ellipsoid into set of points</h1>
 
 Example
+
 <code>
 $  python main.py
 0.9994041069805933 2.0062504550759472 2.9944729408734796
