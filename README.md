@@ -7,4 +7,9 @@ $  python main.py
 6.009341514057538 5.011980081763509 3.9935633406674236
 </pre>
 
+<pre>
+$ python plot.py 
+efit.svg
+</pre>
+
 <p align="center"><img src="img/efit.svg"/></p>
